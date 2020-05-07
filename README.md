@@ -21,5 +21,5 @@ To run the project, clone the repository and run the following commands:
 npm install && npm start
 ```
 
-### To download the App:
+### Download the App:
 https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40devomnk4/CovidOwl-5de66fe458414ec08d7c097fb17b105a-signed.apk
